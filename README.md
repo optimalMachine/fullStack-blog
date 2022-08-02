@@ -1,5 +1,5 @@
 # The Blog
 
-A full stack web app which has a blog functions. This app is created with ReactJS, NodeJS, Express, MySQL, and users can do CRUD (Create, Read, Update & Delete)
+A MERN full stack web app which has simple functions. This app is created with ReactJS, NodeJS, Express, MongoDB (MERN).
 
 All written by Jiuk Choi
